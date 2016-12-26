@@ -11,20 +11,12 @@
 	src: url("jkg-l.ttf");
 }
 
-.bg {
-	z-index: 0;
-	top: -5px;
-	left: -5px;
-	position: fixed;
-	width: 110%;
-	height: 110%;
-	background-color: #9AC8C8;
-	background-size: 200px;
-	filter: blur(0px);
+body {
+	background-image: url("../bilder/rosebg5.png");
+	background-position: 0px 20px;
 }
 
 .wrapper {
-	z-index: 10;
 	width: 960px;
 	height: 460px;
 	border: 3px solid #3A1220;
@@ -32,7 +24,6 @@
 	margin-top: 220px;
 	display: flex;
 	flex-direction: row;
-	position: relative;
 	overflow: hidden;
 }
 
