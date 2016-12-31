@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: "jkg-l";
-	src: url("../homepage-rose/jkg-l.ttf");
+	src: url("jkg-l.ttf");
 }
 
 body {
@@ -37,7 +37,7 @@ img {
 	font-size: 20px;
 	color: #3A1220;
 	padding-left: 30px;
-	font-family: jkg-l;
+	font-family: "jkg-l";
 	white-space: nowrap;
 	display: inline;
 }
