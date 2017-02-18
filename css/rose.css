@@ -8,16 +8,16 @@
 
 @font-face {
 	font-family: "jkg-l";
-	src: url('JKG-L.ttf');
+	src: url('../font/jkg-l.ttf');
 }
 
 body {
-	background-image: url("rosebg.png");
+	background-image: url("../img/rosebg.png");
 	background-position: 0px 20px;
 }
 
 .wrapper {
-	width: 960px;
+	width: 436px;
 	height: 460px;
 	border: 3px solid #3A1220;
 	margin: auto;
@@ -25,6 +25,11 @@ body {
 	display: flex;
 	flex-direction: row;
 	overflow: hidden;
+	transition: width 0.7s;
+}
+
+.wrapper:hover {
+	width: 960px;
 }
 
 img {
