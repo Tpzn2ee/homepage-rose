@@ -30,6 +30,7 @@ body {
 
 .wrapper:hover {
 	width: 960px;
+	transition: width 0.4s;
 }
 
 img {
