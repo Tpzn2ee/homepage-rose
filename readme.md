@@ -1,4 +1,4 @@
-#Rose Homepage
-##By Tropiz
+# Rose Homepage
+## By Spolli
 
-Preview here: https://tropiz.github.io/homepage-rose
+Preview here: https://spolli.github.io/homepage-rose-1/
