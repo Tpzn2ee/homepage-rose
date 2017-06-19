@@ -121,7 +121,7 @@ function buildDate() {
     ", " +
     today.getFullYear() +
     "</font>";
-  setTimeout(buildDate, 500000);
+  setTimeout(buildDate, 50000);
 }
 
 //build the time text
