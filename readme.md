@@ -1,4 +1,4 @@
 # Rose Homepage
-## By Tropiz
+## By Tpz
 
-Preview here: https://tropiz.github.io/homepage-rose
+Preview here: https://tpzn2ee.github.io/homepage-rose
